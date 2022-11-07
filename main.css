@@ -1,13 +1,14 @@
 .body{
     display:flex;
-    align-items: center;
-    justify-content: center;
+    
 }
 .main-content{
     display:flex;
     flex-direction: row;
     gap:5px;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 .block{
     width:40%;
